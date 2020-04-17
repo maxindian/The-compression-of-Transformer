@@ -16,3 +16,12 @@ bash run_(ptb/wt1o3).sh
 if run Language Modeling Test in the case of multiple core, then 
 first set the hyperparameter core_nums in the transformer_upload.py file to 2, then run the bash file.
 
+The URL of this paper is "https://papers.nips.cc/paper/8495-a-tensorized-transformer-for-language-modeling.pdf"
+
+@article{ma2019a,
+title={A Tensorized Transformer for Language Modeling},
+author={Ma, Xindian and Zhang, Peng and Zhang, Shuai and Duan, Nan and Hou, Yuexian and Zhou, Ming and Song, Dawei},
+pages={2229--2239},
+year={2019}}
+    
+
